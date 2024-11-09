@@ -6,7 +6,11 @@ This repository is for learning purpose
 ####this is a level 4
 Create a list
 - Number 1
+  - Nested 1
+  - Nested 2
 - Number 2
+  - Nested 1
+  - Nested 2
 - Number 3
 * Number 1
 * Ordered List
