@@ -19,3 +19,13 @@ Create a list
 3. Three
 # Links
 [Arewa data science] {google.com}
+# Image
+
+# Code and syntax
+
+# Table
+|-------|-------|--------|
+|-------|-------|--------|
+# Horizantal Line
+-----------
+***********
