@@ -18,7 +18,7 @@ Create a list
 2. Two
 3. Three
 # Links
-[Arewa data science] {google.com}
+[Google]{google.com}
 # Image
 
 # Code and syntax
